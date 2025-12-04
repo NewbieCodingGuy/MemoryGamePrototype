@@ -83,5 +83,6 @@ Ready to extend with additional visuals, audio, and difficulty modes
 
 
 <h3>GamePlay Video</h3>
+[Download Gameplay Video]([https://github.com/username/repo/releases/download/v1.0/gameplay.mp4](https://github.com/NewbieCodingGuy/MemoryGamePrototype/releases/download/MemoryGameV1/MemoryGame.mp4))
 
 
